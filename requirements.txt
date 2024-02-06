@@ -1,0 +1,10 @@
+fastapi 
+uvicorn[standard]
+httpx
+pytest
+transformers
+sentence-splitter 
+SentencePiece
+torch
+pillow
+stability-sdk
