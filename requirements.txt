@@ -8,3 +8,4 @@ SentencePiece
 torch
 pillow
 stability-sdk
+python-telegram-bot
